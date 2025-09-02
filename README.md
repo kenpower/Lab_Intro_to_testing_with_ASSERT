@@ -83,7 +83,7 @@ struct Box {
 
 ```cpp
 bool isPointInBox(Point p, Box b) {
-   // return true oif point is in box, false other wise
+   // return true if point is in box, false other wise
 }
 ```
 
@@ -93,11 +93,11 @@ bool isPointInBox(Point p, Box b) {
 Box box = {0, 0, 10, 10};
 
 _ASSERTE(isPointInBox({5, 5}, box) == true);   // inside
-_ASSERTE(isPointInBox({0, 0}, box) == true);   // corner
-_ASSERTE(isPointInBox({10, 10}, box) == true); // opposite corner
 _ASSERTE(isPointInBox({-1, 5}, box) == false); // left of box
 _ASSERTE(isPointInBox({5, 11}, box) == false); // above box
 ```
+
+Write 4 more tests to check points on the exact corners of the box
 
 ---
 
