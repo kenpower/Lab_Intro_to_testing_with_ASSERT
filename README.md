@@ -10,7 +10,7 @@
 
 ## 📝 Starter Code
 
-You are given starter code in Lab_Intro_to_testing_with_ASSERT.cpp, run the program and observe what happens.
+You are given starter code in teh file _Lab_Intro_to_testing_with_ASSERT.cpp_, run the program and observe what happens.
 
 ---
 
