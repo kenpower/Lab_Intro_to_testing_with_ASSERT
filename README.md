@@ -18,7 +18,6 @@ You are given starter code in the file _Lab_Intro_to_testing_with_ASSERT.cpp_, r
 
 - The line `_ASSERTE(7 * 6 == 41);` is **deliberately wrong**.  
 - Fix it so the assertion is correct.  
-- Hint: `7 * 6` should equal `42`.  
 
 ---
 
@@ -28,8 +27,8 @@ You are given starter code in the file _Lab_Intro_to_testing_with_ASSERT.cpp_, r
 - Fix it so it correctly returns `true` if the number is even, and `false` otherwise.  
 
 
-- Add at least **5 more test cases** in `main()`.  
-- Test even numbers, odd numbers, and negative numbers.  
+- Add at least **5 more test cases** in `main()` to test the `isEven()` function
+- Test even numbers, odd numbers, and negative numbers. What should zero return?  
 
 ---
 
