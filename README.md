@@ -1,6 +1,6 @@
 # Lab: Introduction to Testing with `_ASSERTE`
 
-## 🎯 Learning Objectives
+## Learning Objectives
 - Understand the purpose of unit testing in C++.  
 - Learn how to use `_ASSERTE` to automatically check if functions behave correctly.  
 - Practice writing and testing simple functions.  
@@ -8,20 +8,20 @@
 
 ---
 
-## 📝 Starter Code
+## Starter Code
 
 You are given starter code in the file _Lab_Intro_to_testing_with_ASSERT.cpp_, run the program and observe what happens.
 
 ---
 
-## 📝 Part 1: Fix the Broken Assertion
+##  Part 1: Fix the Broken Assertion
 
 - The line `_ASSERTE(7 * 6 == 41);` is **deliberately wrong**.  
 - Fix it so the assertion is correct.  
 
 ---
 
-## 📝 Part 2: Implement `isEven`
+##  Part 2: Implement `isEven`
 
 - The function `isEven(int number)` currently always returns `true`.  
 - Fix it so it correctly returns `true` if the number is even, and `false` otherwise.  
@@ -32,7 +32,7 @@ You are given starter code in the file _Lab_Intro_to_testing_with_ASSERT.cpp_, r
 
 ---
 
-## 📝 Part 3: Distance Between Two Points
+##  Part 3: Distance Between Two Points
 
 In games, we often need to calculate the distance between two points (e.g., player and enemy).  
 
@@ -66,7 +66,7 @@ Add 4 more tests with different points
 
 ---
 
-## 📝 Part 4: Point in Box
+##  Part 4: Point in Box
 
 Another common game function is checking if a point lies inside a rectangular box.  
 
@@ -101,7 +101,7 @@ Write 4 more tests to check points on the exact corners of the box
 
 ---
 
-## 📝 Part 5: Reflection
+## Part 5: Reflection
 
 Answer these questions in comments at the bottom of your code:
 
