@@ -113,4 +113,4 @@ Answer these questions in comments at the bottom of your code:
 
 ---
 
-## 📝 Part 6: Push your code to your assignment repository on github
+## Part 6: Push your code to your assignment repository on github
